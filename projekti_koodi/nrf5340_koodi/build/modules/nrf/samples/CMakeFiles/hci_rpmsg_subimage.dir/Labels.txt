@@ -1,0 +1,13 @@
+# Target labels
+ hci_rpmsg_subimage
+# Source files and their labels
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage-complete.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-build.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-configure.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-download.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-install.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-mkdir.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-patch.rule
+C:/Koulu/Syksy23/tietoliikenne_sovellusprojekti/TL_Projekti/projekti_koodi/nrf5340_koodi/build/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-update.rule
