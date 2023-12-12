@@ -25,6 +25,6 @@ K-means algoritmi ottaa tietokannasta mittausdatan, jonka avulla se vertaa aina 
 <img src="3d_malli.png">
 
 ## Confusion matrix, kuvaus K-means algoritmin toimivuudesta
-Confusion matrix K-means luokittelu algoritmin toiminnasta/hyvyydestä. Matriisi todentaa K-means algoritmilla luotujen keskipisteiden paikkansapitävyyden kun sille annetaan uusia anturiarvoja joista se mittaa etäisyyksiä annettuihin keskipisteisiin ja tunnsitaa niisä lähimmän ja lisää yhden arvon matrisiin keskipisteen kohdalle. Tällä voimme todistaa, että keskipiste sijaitsee oikeassa x,y,z suunnassa.
+Confusion matrix K-means luokittelu algoritmin toiminnasta/hyvyydestä. Matriisi todentaa K-means algoritmilla luotujen keskipisteiden paikkansapitävyyden kun sille annetaan uusia anturiarvoja joista se mittaa etäisyyksiä annettuihin keskipisteisiin ja tunnistaa niisä lähimmän ja lisää yhden arvon matrisiin keskipisteen kohdalle. Tällä voimme todistaa, että keskipiste sijaitsee oikeassa x,y,z suunnassa.
 
 <img src="confusionmatrix.png">
