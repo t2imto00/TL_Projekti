@@ -3,7 +3,7 @@
 # Projektin kuvaus
 
 Projektissa käytetyt ohjelmat ja komponentit:
-  - Visual Studio Coden C-kieliset ohjelmat: Kiihtyvyysanturin dataa mittaava ohjelma, Bluetoothin toiminnan mahdollistava ohjelma, sekä nRF5430-DK alustan käytön ohjelma.
+  - Visual Studio Coden C-kieliset ohjelmat: Kiihtyvyysanturin dataa mittaava ohjelma, Bluetoothin toiminnan mahdollistava ohjelma, sekä nRF5340-DK alustan käytön ohjelma.
   - Visual Studio Coden Python ohjelmat: Mittausdatan luku, käsittely ja lähettäminen MySql tietokantaan(Raspberry pi 3:n kautta), K-means opetusalgoritmin toteutus 3D-mallinnuksella ja opetusalgoritmin  tehokkuuden testaus ohjelma
   - Kiihtyvyysanturi GY-61
   - Nrf Connect
